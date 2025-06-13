@@ -1,0 +1,2 @@
+app:
+    welcomeMessag:"hello from config service"
