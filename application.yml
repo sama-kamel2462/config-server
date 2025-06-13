@@ -1,2 +1,2 @@
 app:
-    welcomeMessag:"hello from config service"
+    welcomeMessage:"hello from config service"
